@@ -1,0 +1,2 @@
+# WeeklyGit
+School
