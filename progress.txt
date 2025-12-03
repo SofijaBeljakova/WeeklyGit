@@ -1,4 +1,8 @@
 Start
 .
 .
+<<<<<<< HEAD
 .
+=======
+>>>>>>> edd97ceeb5da4123fcf2b9bd53f1d80c8200048e
+2
